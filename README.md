@@ -1,4 +1,3 @@
-
 # Blog API
 
 A fully functional yet simple API with documentation for blog.
